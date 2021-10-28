@@ -1,0 +1,56 @@
+# Datas Comemorativas do Brasil
+Repositório para centralizar o levantamento e documentação de datas comemorativas
+
+O objetivo final é gerar arquivos para importação e/ou APIs gratuitas para consulta.
+
+__Formatos finais, documentação, campos etc ainda estão sendo discutidos.__
+
+## Discussão geral
+(ainda não definido)
+
+## Organização de levantamento
+
+As issues foram organizadas por labels, no seguinte processo:
+
+[Em andamento]() -> 
+[Em revisão]() -> 
+[Revisado]() -> 
+[Concluído]() -> 
+[Dados incorretos]() -> [Em andamento]
+
+* __Em andamento__: O mapeamento começou a ser feito
+* __Em revisão__: Os responsáveis acreditam que mapearam as datas corretamente e pedem que outras pessoas façam uma revisão dos dados
+* __Revisado__: As datas levantadas conferem e estão corretas.
+* __Concluído__: Os dados dessa issue foram adicionados no arquivo final (json)
+* __Dados incorretos__: Quando alguma data precisa ser corrigida, removida ou adicionada
+
+
+## Metas
+(ainda não definido)
+
+## Mini API
+(ainda não definido)
+
+## Licença
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Dados Brasileiros
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
