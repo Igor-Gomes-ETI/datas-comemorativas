@@ -33,9 +33,9 @@ As issues foram organizadas por labels, no seguinte processo:
 
 ## Licença
 
-The MIT License (MIT)
+MIT License
 
-Copyright (c) 2015 Dados Brasileiros
+Copyright (c) 2021 Igor Gomes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
