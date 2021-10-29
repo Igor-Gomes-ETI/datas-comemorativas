@@ -20,5 +20,137 @@
     "startTime": "",
     "endTime": "",
     "variableDates": {}
+  },
+  {
+    "date": "03/19",
+    "title": "´São José",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Regional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "03/25",
+    "title": "Data Magna do Ceará",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Regional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "04/02",
+    "title": "Sexta Feira da Paixão",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "04/04",
+    "title": "Pascoa",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "04/21",
+    "title": "Tira Dentes",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "05/01",
+    "title": "Dia do Trabalhador",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "06/03",
+    "title": "Corpus Christis",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "09/07",
+    "title": "Independência do Brasil",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "10/12",
+    "title": "Nossa Senhora Aparecida (dia das Crianças)",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "11/02",
+    "title": "Finados",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "11/15",
+    "title": "Proclamação a Republica",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
+  },
+  {
+    "date": "12/25",
+    "title": "Natal",
+    "description": "",
+    "legislation": "",
+    "type": "feriado",
+    "local": "Nacional",
+    "startTime": "",
+    "endTime": "",
+    "variableDates": {}
   }
 ]
