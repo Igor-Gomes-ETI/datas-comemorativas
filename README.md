@@ -1,5 +1,5 @@
-# Datas Comemorativas do Brasil
-Repositório para centralizar o levantamento e documentação de datas comemorativas
+# Datas Comemorativas regionais do Brasil
+Repositório para centralizar o levantamento e documentos de dados comemorativos
 
 O objetivo final é gerar arquivos para importação e/ou APIs gratuitas para consulta.
 
