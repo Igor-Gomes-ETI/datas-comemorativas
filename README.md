@@ -1,3 +1,4 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Igor-Gomes-ETI/datas-comemorativas)
 # Datas Comemorativas regionais do Brasil
 Repositório para centralizar o levantamento e documentos de dados comemorativos
 
