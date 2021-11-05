@@ -55,3 +55,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+<a href="https://wizardigor.github.io/igorgomes-eti" target="_blank">
+<img src="https://user-images.githubusercontent.com/51889513/138512526-05ef6818-49a7-4f5a-a16f-ffef43b26ee5.jpg" alt="Igor Goomes ETI">
+ </a>
+
+> **Site: [IgorGomes.ETI.br](https://igorgomes.eti.br)**  
+> **Github: [wizardigor](https://github.com/wizardigor)**  
+> **Linkdin: https://www.linkedin.com/in/igorgomesads**  
+> **e-Mail Pessoal: igorgomesads@gmail.com**  
+> **e-Mail Institucional: contato@igorgomes.eti.br**  
